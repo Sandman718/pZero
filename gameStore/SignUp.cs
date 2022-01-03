@@ -6,26 +6,42 @@ public class SignUpCustomer{
 //constructor
     public SignUpCustomer() {}
 
-    public string name { get; set;}
-    public int customerNum {get; set;}
+//attributes
+    public string name { get; set; }
+    public string state { get; set; }
 
-    //set the name to the customer
+    public int age {get; set;}
+    public int customerNum { get; set; }
+
+    //set the name of the customer
     public void setName() {
         string name = "";
         this.name = name;
 
     }
 
-    //set a number to the customer
-    public void setCustomerNum() {
-        int i = 0;
-        i++;
-        this.customerNum = i;
+    public void setState() {
+        string state = "";
+        this.state = state;
+
     }
 
-    //print attributes values of the class
+    public int setAge(int age) {
+        
+        
+        return age;
+    }
+
+    //set a number to the customer
+    public int setCustomerNum(int i) {
+        //int i = 0;
+        i++;
+       return i;
+    }
+
+    //print attribute values of the class
     public string printCust() {
-        return $"Name is: {this.name} Customer Number: {this.customerNum}";
+        return $"Name : {this.name}  State : {this.state} Age: {age}";
     }
 
 

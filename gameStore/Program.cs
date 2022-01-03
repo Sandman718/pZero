@@ -1,5 +1,6 @@
 ﻿using SignUp;
 using System.Collections.Generic;
+using System;
 
 bool exit = false;
 //creating a dynamic list
@@ -22,15 +23,30 @@ do{
     switch (userInput) {
 
         case "1":
+            //maybe refactor with object initializer....down the road
+            //taking the user input and saving into a variable for new created customers
             Console.WriteLine("What is your name: ");
-            Console.WriteLine(" ");
-            //taking the user input and saving it as string var named newNote
             string name = Console.ReadLine();
+
+            Console.WriteLine("What is your state: ");
+            string state = Console.ReadLine();
+
+            Console.WriteLine("What is your age: ");
+            string stringAge = Console.ReadLine();
+            int age = 0;
+            age = int.Parse(stringAge);
+            
+            
+            int i=0;
 
             //new customer being created
             SignUpCustomer newCustomer = new SignUpCustomer();
             newCustomer.name = name;
+            newCustomer.state = state;
+            newCustomer.age = age;
+            newCustomer.setCustomerNum(i);
 
+            //add new customer to list
             customerList.Add(newCustomer);
             Console.WriteLine($"Customer Name: {name} ");
         
@@ -44,7 +60,7 @@ do{
 
         case "3":
             Console.WriteLine("Inventory");
-            //foreach loop loops through items in a collection
+            //foreach iterates through the list 
             foreach(SignUpCustomer item in customerList)
             {
                 Console.WriteLine(item.printCust());
