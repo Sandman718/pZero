@@ -35,8 +35,6 @@ do{
             string stringAge = Console.ReadLine();
             int age = 0;
             age = int.Parse(stringAge);
-            
-            
             int i=0;
 
             //new customer being created
@@ -49,8 +47,6 @@ do{
             //add new customer to list
             customerList.Add(newCustomer);
             Console.WriteLine($"Customer Name: {name} ");
-        
-           
             Console.WriteLine(newCustomer.printCust());
         break;
 
