@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BROOKLYNs11B\\pZero\\gameStore\\theTavern.csproj": {}
+    "C:\\Users\\BROOKLYNs11B\\Desktop\\RevProjects\\pZero-1\\gameStore\\theTavern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BROOKLYNs11B\\pZero\\gameStore\\theTavern.csproj": {
+    "C:\\Users\\BROOKLYNs11B\\Desktop\\RevProjects\\pZero-1\\gameStore\\theTavern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BROOKLYNs11B\\pZero\\gameStore\\theTavern.csproj",
+        "projectUniqueName": "C:\\Users\\BROOKLYNs11B\\Desktop\\RevProjects\\pZero-1\\gameStore\\theTavern.csproj",
         "projectName": "theTavern",
-        "projectPath": "C:\\Users\\BROOKLYNs11B\\pZero\\gameStore\\theTavern.csproj",
+        "projectPath": "C:\\Users\\BROOKLYNs11B\\Desktop\\RevProjects\\pZero-1\\gameStore\\theTavern.csproj",
         "packagesPath": "C:\\Users\\BROOKLYNs11B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BROOKLYNs11B\\pZero\\gameStore\\obj\\",
+        "outputPath": "C:\\Users\\BROOKLYNs11B\\Desktop\\RevProjects\\pZero-1\\gameStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BROOKLYNs11B\\AppData\\Roaming\\NuGet\\NuGet.Config"

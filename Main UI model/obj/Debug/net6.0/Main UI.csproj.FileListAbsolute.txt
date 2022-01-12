@@ -1,0 +1,36 @@
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\Main UI.exe
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\Main UI.deps.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\Main UI.runtimeconfig.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\ref\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\bin\Debug\net6.0\Main UI.pdb
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.csproj.AssemblyReference.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.AssemblyInfoInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.AssemblyInfo.cs
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.csproj.CoreCompileInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\ref\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.pdb
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI\obj\Debug\net6.0\Main UI.genruntimeconfig.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\Main UI.exe
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\Main UI.deps.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\Main UI.runtimeconfig.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\ref\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\Main UI.pdb
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.csproj.AssemblyReference.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.AssemblyInfoInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.AssemblyInfo.cs
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.csproj.CoreCompileInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\ref\Main UI.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.pdb
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.genruntimeconfig.cache
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\theTavern.deps.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\theTavern.runtimeconfig.json
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\theTavern.exe
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\theTavern.dll
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\bin\Debug\net6.0\theTavern.pdb
+C:\Users\BROOKLYNs11B\Desktop\RevProjects\pZero-1\Main UI model\obj\Debug\net6.0\Main UI.csproj.CopyComplete

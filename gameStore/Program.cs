@@ -1,10 +1,12 @@
-﻿using SignUp;
+﻿
+using SignUp;
 using System.Collections.Generic;
 using System;
 
-bool exit = false;
 //creating a dynamic list
 List<SignUpCustomer> customerList = new List<SignUpCustomer>();
+//variables
+bool exit = false;
 
 do{
 
@@ -12,7 +14,7 @@ do{
     Console.WriteLine("Make a selection");
     Console.WriteLine("1 - Sign up");
     Console.WriteLine("2 - Log in");
-    Console.WriteLine("3 - Inventory");
+    Console.WriteLine("3 - Customer List");
     Console.WriteLine("4 - Cart");
     Console.WriteLine("x - Exit");
 
